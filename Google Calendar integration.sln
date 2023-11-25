@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCalendarIntegration.Application", "GoogleCalendarIntegration.Application\GoogleCalendarIntegration.Application.csproj", "{B88D7C7F-1995-449A-9E26-3699871A9584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCalendarIntegration.Domin", "GoogleCalendarIntegration.Domin\GoogleCalendarIntegration.Domin.csproj", "{8DFFBBE1-D9B0-497C-AA9E-9C7CFB341C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCalendarIntegration.Infrastructure", "GoogleCalendarIntegration.Infrastructure\GoogleCalendarIntegration.Infrastructure.csproj", "{04D11B1A-A6C9-4BA3-A9FF-A035B4CA9548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCalendarIntegration", "GoogleCalendarIntegration\GoogleCalendarIntegration.csproj", "{4F428C7A-3BF3-434A-969F-61457B3D44F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88D7C7F-1995-449A-9E26-3699871A9584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88D7C7F-1995-449A-9E26-3699871A9584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88D7C7F-1995-449A-9E26-3699871A9584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88D7C7F-1995-449A-9E26-3699871A9584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DFFBBE1-D9B0-497C-AA9E-9C7CFB341C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFFBBE1-D9B0-497C-AA9E-9C7CFB341C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFFBBE1-D9B0-497C-AA9E-9C7CFB341C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFFBBE1-D9B0-497C-AA9E-9C7CFB341C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D11B1A-A6C9-4BA3-A9FF-A035B4CA9548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D11B1A-A6C9-4BA3-A9FF-A035B4CA9548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D11B1A-A6C9-4BA3-A9FF-A035B4CA9548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D11B1A-A6C9-4BA3-A9FF-A035B4CA9548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F428C7A-3BF3-434A-969F-61457B3D44F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F428C7A-3BF3-434A-969F-61457B3D44F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F428C7A-3BF3-434A-969F-61457B3D44F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F428C7A-3BF3-434A-969F-61457B3D44F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D73D821-E1F2-4906-B44B-053C1D2EC0E0}
+	EndGlobalSection
+EndGlobal
